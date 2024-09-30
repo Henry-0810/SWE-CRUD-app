@@ -1,452 +1,454 @@
-[
-    {
-        "Company":"ViewSoft",
-        "Company Score":4.8,
-        "Job Title":"Software Engineer",
-        "Location":"Manassas, VA",
-        "Date":"8d",
-        "Salary":"$68K - $94K",
-        "Source":"Glassdoor est."
-    },
-    {
-        "Company":"Workiva",
-        "Company Score":4.3,
-        "Job Title":"Software Support Engineer",
-        "Location":"Remote",
-        "Date":"2d",
-        "Salary":"$61K - $104K",
-        "Source":"Employer est."
-    },
-    {
-        "Company":"Garmin International, Inc.",
-        "Company Score":3.9,
-        "Job Title":"C# Software Engineer",
-        "Location":"Cary, NC",
-        "Date":"2d",
-        "Salary":"$95K - $118K",
-        "Source":"Glassdoor est."
-    },
-    {
-        "Company":"Snapchat",
-        "Company Score":3.5,
-        "Job Title":"Software Engineer, Fullstack, 1+ Years of Experience",
-        "Location":"Los Angeles, CA",
-        "Date":"2d",
-        "Salary":"$97K - $145K",
-        "Source":"Employer est."
-    },
-    {
-        "Company":"Vitesco Technologies Group AG",
-        "Company Score":3.1,
-        "Job Title":"Software Engineer",
-        "Location":"Seguin, TX",
-        "Date":"2d",
-        "Salary":"$85K - $108K",
-        "Source":"Glassdoor est."
-    },
-    {
-        "Company":"Spotify",
-        "Company Score":3.9,
-        "Job Title":"Backend Engineer II",
-        "Location":"New York, NY",
-        "Date":"1d",
-        "Salary":"$123K - $175K",
-        "Source":"Employer est."
-    },
-    {
-        "Company":"Infor",
-        "Company Score":4.0,
-        "Job Title":"Associate Software Engineer",
-        "Location":"Alpharetta, GA",
-        "Date":"7d",
-        "Salary":"$77K - $94K",
-        "Source":"Glassdoor est."
-    },
-    {
-        "Company":"Amerisoft Corporation",
-        "Company Score":5.0,
-        "Job Title":"Software Developers",
-        "Location":"Farmington Hills, MI",
-        "Date":"30d+",
-        "Salary":"$71K - $100K",
-        "Source":"Glassdoor est."
-    },
-    {
-        "Company":"WHOOP",
-        "Company Score":3.3,
-        "Job Title":"Software Engineer II (Backend, Health)",
-        "Location":"Boston, MA",
-        "Date":"10d",
-        "Salary":"$94K - $148K",
-        "Source":"Glassdoor est."
-    },
-    {
-        "Company":"PFF",
-        "Company Score":4.2,
-        "Job Title":"Sr. Software Engineer",
-        "Location":"Remote",
-        "Date":"1d",
-        "Salary":"$147K - $189K",
-        "Source":"Employer est."
-    },
-    {
-        "Company":"Salesforce",
-        "Company Score":4.1,
-        "Job Title":"MTS Software Engineer",
-        "Location":"San Francisco, CA",
-        "Date":"5d",
-        "Salary":"$90K - $113K",
-        "Source":"Employer est."
-    },
-    {
-        "Company":"HealthMine Services, Inc.",
-        "Company Score":3.8,
-        "Job Title":"Software Engineer",
-        "Location":"Remote",
-        "Date":"1d",
-        "Salary":"$54K - $79K",
-        "Source":"Glassdoor est."
-    },
-    {
-        "Company":"Honeywell",
-        "Company Score":4.1,
-        "Job Title":"Software Engineer I",
-        "Location":"Aguadilla, PR",
-        "Date":"2d",
-        "Salary":"$91K - $135K",
-        "Source":"Glassdoor est."
-    },
-    {
-        "Company":"Legrand AV",
-        "Company Score":3.7,
-        "Job Title":"Software Engineer",
-        "Location":"Minneapolis-Saint Paul",
-        "Date":"2d",
-        "Salary":"$70K - $135K",
-        "Source":"Employer est."
-    },
-    {
-        "Company":"Athenahealth",
-        "Company Score":4.0,
-        "Job Title":"Software Engineer, athenaCollector \u2013 RCM Rules",
-        "Location":"Boston, MA",
-        "Date":"2d",
-        "Salary":"$192K - $288K",
-        "Source":"Employer est."
-    },
-    {
-        "Company":"Amex",
-        "Company Score":4.1,
-        "Job Title":"Java Engineer",
-        "Location":"Plantation, FL",
-        "Date":"6d",
-        "Salary":"$100K - $125K",
-        "Source":"Employer est."
-    },
-    {
-        "Company":"SOFT LABS NA",
-        "Company Score":5.0,
-        "Job Title":"Entry Level to Senior Level Software Developers",
-        "Location":"Northborough, MA",
-        "Date":"30d+",
-        "Salary":"$85K - $127K",
-        "Source":"Glassdoor est."
-    },
-    {
-        "Company":"Snapchat",
-        "Company Score":3.5,
-        "Job Title":"Software Engineer, C++",
-        "Location":"Los Angeles, CA",
-        "Date":"2d",
-        "Salary":"$69K - $109K",
-        "Source":"Glassdoor est."
-    },
-    {
-        "Company":"Hertz",
-        "Company Score":3.2,
-        "Job Title":"Software Engineer",
-        "Location":"Seattle, WA",
-        "Date":"2d",
-        "Salary":"$124K - $234K",
-        "Source":"Employer est."
-    },
-    {
-        "Company":"Megaport",
-        "Company Score":3.4,
-        "Job Title":"Frontend Software Engineer",
-        "Location":null,
-        "Date":"2d",
-        "Salary":"$84K - $133K",
-        "Source":"Glassdoor est."
-    },
-    {
-        "Company":"7-Eleven, Inc.",
-        "Company Score":3.4,
-        "Job Title":"Software Engineer",
-        "Location":"Irving, TX",
-        "Date":"1d",
-        "Salary":"$85K - $150K",
-        "Source":"Employer est."
-    },
-    {
-        "Company":"Summit Technologies, Inc.",
-        "Company Score":4.2,
-        "Job Title":"Software Engineer",
-        "Location":"Springfield, MA",
-        "Date":"10d",
-        "Salary":"$48K - $89K",
-        "Source":"Glassdoor est."
-    },
-    {
-        "Company":"Adobe",
-        "Company Score":2.9,
-        "Job Title":"Software Development Engineer",
-        "Location":"San Jose, CA",
-        "Date":"10d",
-        "Salary":"$66K - $97K",
-        "Source":"Glassdoor est."
-    },
-    {
-        "Company":"The MITRE Corporation",
-        "Company Score":4.0,
-        "Job Title":"Associate Software Engineer",
-        "Location":"Bedford, MA",
-        "Date":"2d",
-        "Salary":"$108K - $199K",
-        "Source":"Employer est."
-    },
-    {
-        "Company":"Boston Children's Hospital",
-        "Company Score":4.1,
-        "Job Title":"Software Engineer - HA (Hybrid)",
-        "Location":"Boston, MA",
-        "Date":"30d+",
-        "Salary":"$102K - $173K",
-        "Source":"Employer est."
-    },
-    {
-        "Company":"Amex",
-        "Company Score":3.2,
-        "Job Title":"Engineer - React\/JavaScript",
-        "Location":"Sunrise, FL",
-        "Date":"5d",
-        "Salary":"$124K - $142K",
-        "Source":"Employer est."
-    },
-    {
-        "Company":"Ahold Delhaize USA",
-        "Company Score":4.0,
-        "Job Title":"Software Engineer - Martech",
-        "Location":"Carlisle, PA",
-        "Date":"2d",
-        "Salary":"$94K - $133K",
-        "Source":"Glassdoor est."
-    },
-    {
-        "Company":"Artera Technologies",
-        "Company Score":4.2,
-        "Job Title":"Software Engineers",
-        "Location":"Annapolis Junction, MD",
-        "Date":"6d",
-        "Salary":"$70K - $116K",
-        "Source":"Glassdoor est."
-    },
-    {
-        "Company":"Adobe",
-        "Company Score":4.3,
-        "Job Title":"Software Engineer",
-        "Location":"Lehi, UT",
-        "Date":"13d",
-        "Salary":"$142K - $178K",
-        "Source":"Employer est."
-    },
-    {
-        "Company":"Workiva",
-        "Company Score":3.5,
-        "Job Title":"Senior Software Engineer",
-        "Location":"Remote",
-        "Date":"3d",
-        "Salary":"$87K - $135K",
-        "Source":"Employer est."
-    },
-    {
-        "Company":"Samsung Electronics",
-        "Company Score":3.4,
-        "Job Title":"Software Engineer",
-        "Location":"Mountain View, CA",
-        "Date":"2d",
-        "Salary":"$77K - $182K",
-        "Source":"Employer est."
-    },
-    {
-        "Company":"IPG Photonics",
-        "Company Score":3.7,
-        "Job Title":"Software Engineer",
-        "Location":"Oxford, MA",
-        "Date":"4d",
-        "Salary":"$101K - $144K",
-        "Source":"Glassdoor est."
-    },
-    {
-        "Company":"Crafty",
-        "Company Score":3.3,
-        "Job Title":"Software Engineer",
-        "Location":"Chicago, IL",
-        "Date":"2d",
-        "Salary":"$101K - $168K",
-        "Source":"Employer est."
-    },
-    {
-        "Company":"Crunchyroll, LLC",
-        "Company Score":4.2,
-        "Job Title":"Software Engineer III, Payments",
-        "Location":"San Francisco, CA",
-        "Date":"13d",
-        "Salary":"$74K - $118K",
-        "Source":"Glassdoor est."
-    },
-    {
-        "Company":"LEGO",
-        "Company Score":3.9,
-        "Job Title":"Backend Software Engineer",
-        "Location":"Irvine, CA",
-        "Date":"9d",
-        "Salary":"$100K - $200K",
-        "Source":"Employer est."
-    },
-    {
-        "Company":"Principal Financial Group",
-        "Company Score":4.1,
-        "Job Title":"Experienced Software Engineer",
-        "Location":"Des Moines, IA",
-        "Date":"2d",
-        "Salary":"$51K - $78K",
-        "Source":"Glassdoor est."
-    },
-    {
-        "Company":"INTEL",
-        "Company Score":3.4,
-        "Job Title":"Security Software Engineer",
-        "Location":"Phoenix, AZ",
-        "Date":"22d",
-        "Salary":"$71K - $237K",
-        "Source":"Employer est."
-    },
-    {
-        "Company":"Hasbro",
-        "Company Score":4.4,
-        "Job Title":"Software Engineer, Unreal Engine",
-        "Location":"Renton, WA",
-        "Date":"18d",
-        "Salary":"$87K - $116K",
-        "Source":"Glassdoor est."
-    },
-    {
-        "Company":"Software Engineering Institute",
-        "Company Score":4.2,
-        "Job Title":"Software Engineer",
-        "Location":"Pittsburgh, PA",
-        "Date":"30d+",
-        "Salary":"$116K - $184K",
-        "Source":"Employer est."
-    },
-    {
-        "Company":"University of Dayton",
-        "Company Score":4.4,
-        "Job Title":"Associate Software Engineer",
-        "Location":"Dayton, OH",
-        "Date":"2d",
-        "Salary":"$75K - $103K",
-        "Source":"Glassdoor est."
-    },
-    {
-        "Company":"MIT",
-        "Company Score":3.7,
-        "Job Title":"Software Developer",
-        "Location":"Cambridge, MA",
-        "Date":"17d",
-        "Salary":"$155K - $221K",
-        "Source":"Employer est."
-    },
-    {
-        "Company":"Amazon.com Services LLC",
-        "Company Score":5.0,
-        "Job Title":"Software Dev Engineer - Computer Science",
-        "Location":"Seattle, WA",
-        "Date":"2d",
-        "Salary":"$112K - $165K",
-        "Source":"Employer est."
-    },
-    {
-        "Company":"DaqScribe Solutions",
-        "Company Score":3.9,
-        "Job Title":"Jr. Software Engineer",
-        "Location":"United States",
-        "Date":"10d",
-        "Salary":"$73K - $109K",
-        "Source":"Glassdoor est."
-    },
-    {
-        "Company":"West Virginia University",
-        "Company Score":4.5,
-        "Job Title":"Software Engineer - Libraries",
-        "Location":"Morgantown, WV",
-        "Date":"4d",
-        "Salary":"$120K - $150K",
-        "Source":"Employer est."
-    },
-    {
-        "Company":"McKesson",
-        "Company Score":3.9,
-        "Job Title":"Software Engineer",
-        "Location":null,
-        "Date":"2d",
-        "Salary":"$88K - $124K",
-        "Source":"Glassdoor est."
-    },
-    {
-        "Company":"Noblis",
-        "Company Score":2.0,
-        "Job Title":"Software Engineer (All Levels)",
-        "Location":"Chantilly, VA",
-        "Date":"1d",
-        "Salary":"$77K - $87K",
-        "Source":"Employer est."
-    },
-    {
-        "Company":"eimagine",
-        "Company Score":3.5,
-        "Job Title":"Software Engineer",
-        "Location":"United States",
-        "Date":"30d+",
-        "Salary":"$65K - $90K",
-        "Source":"Employer est."
-    },
-    {
-        "Company":"CSL SOFTWARE SOLUTIONS",
-        "Company Score":4.1,
-        "Job Title":"Software\/Database Developer",
-        "Location":"Burlington, VT",
-        "Date":"18d",
-        "Salary":"$74K - $101K",
-        "Source":"Glassdoor est."
-    },
-    {
-        "Company":"Chewy",
-        "Company Score":3.8,
-        "Job Title":"Software Engineer II",
-        "Location":"Bellevue, WA",
-        "Date":"2d",
-        "Salary":"$74K - $111K",
-        "Source":"Glassdoor est."
-    },
-    {
-        "Company":"ERPA",
-        "Company Score":4.3,
-        "Job Title":"Software Test Engineer",
-        "Location":"Dublin, OH",
-        "Date":"2d",
-        "Salary":"$147K - $186K",
-        "Source":"Employer est."
-    }
-]
+{
+    "docs": [
+        {
+            "Company": "ViewSoft",
+            "Company Score": 4.8,
+            "Job Title": "Software Engineer",
+            "Location": "Manassas, VA",
+            "Date": "8d",
+            "Salary": "$68K - $94K",
+            "Source": "Glassdoor est."
+        },
+        {
+            "Company": "Workiva",
+            "Company Score": 4.3,
+            "Job Title": "Software Support Engineer",
+            "Location": "Remote",
+            "Date": "2d",
+            "Salary": "$61K - $104K",
+            "Source": "Employer est."
+        },
+        {
+            "Company": "Garmin International, Inc.",
+            "Company Score": 3.9,
+            "Job Title": "C# Software Engineer",
+            "Location": "Cary, NC",
+            "Date": "2d",
+            "Salary": "$95K - $118K",
+            "Source": "Glassdoor est."
+        },
+        {
+            "Company": "Snapchat",
+            "Company Score": 3.5,
+            "Job Title": "Software Engineer, Fullstack, 1+ Years of Experience",
+            "Location": "Los Angeles, CA",
+            "Date": "2d",
+            "Salary": "$97K - $145K",
+            "Source": "Employer est."
+        },
+        {
+            "Company": "Vitesco Technologies Group AG",
+            "Company Score": 3.1,
+            "Job Title": "Software Engineer",
+            "Location": "Seguin, TX",
+            "Date": "2d",
+            "Salary": "$85K - $108K",
+            "Source": "Glassdoor est."
+        },
+        {
+            "Company": "Spotify",
+            "Company Score": 3.9,
+            "Job Title": "Backend Engineer II",
+            "Location": "New York, NY",
+            "Date": "1d",
+            "Salary": "$123K - $175K",
+            "Source": "Employer est."
+        },
+        {
+            "Company": "Infor",
+            "Company Score": 4.0,
+            "Job Title": "Associate Software Engineer",
+            "Location": "Alpharetta, GA",
+            "Date": "7d",
+            "Salary": "$77K - $94K",
+            "Source": "Glassdoor est."
+        },
+        {
+            "Company": "Amerisoft Corporation",
+            "Company Score": 5.0,
+            "Job Title": "Software Developers",
+            "Location": "Farmington Hills, MI",
+            "Date": "30d+",
+            "Salary": "$71K - $100K",
+            "Source": "Glassdoor est."
+        },
+        {
+            "Company": "WHOOP",
+            "Company Score": 3.3,
+            "Job Title": "Software Engineer II (Backend, Health)",
+            "Location": "Boston, MA",
+            "Date": "10d",
+            "Salary": "$94K - $148K",
+            "Source": "Glassdoor est."
+        },
+        {
+            "Company": "PFF",
+            "Company Score": 4.2,
+            "Job Title": "Sr. Software Engineer",
+            "Location": "Remote",
+            "Date": "1d",
+            "Salary": "$147K - $189K",
+            "Source": "Employer est."
+        },
+        {
+            "Company": "Salesforce",
+            "Company Score": 4.1,
+            "Job Title": "MTS Software Engineer",
+            "Location": "San Francisco, CA",
+            "Date": "5d",
+            "Salary": "$90K - $113K",
+            "Source": "Employer est."
+        },
+        {
+            "Company": "HealthMine Services, Inc.",
+            "Company Score": 3.8,
+            "Job Title": "Software Engineer",
+            "Location": "Remote",
+            "Date": "1d",
+            "Salary": "$54K - $79K",
+            "Source": "Glassdoor est."
+        },
+        {
+            "Company": "Honeywell",
+            "Company Score": 4.1,
+            "Job Title": "Software Engineer I",
+            "Location": "Aguadilla, PR",
+            "Date": "2d",
+            "Salary": "$91K - $135K",
+            "Source": "Glassdoor est."
+        },
+        {
+            "Company": "Legrand AV",
+            "Company Score": 3.7,
+            "Job Title": "Software Engineer",
+            "Location": "Minneapolis-Saint Paul",
+            "Date": "2d",
+            "Salary": "$70K - $135K",
+            "Source": "Employer est."
+        },
+        {
+            "Company": "Athenahealth",
+            "Company Score": 4.0,
+            "Job Title": "Software Engineer, athenaCollector \u2013 RCM Rules",
+            "Location": "Boston, MA",
+            "Date": "2d",
+            "Salary": "$192K - $288K",
+            "Source": "Employer est."
+        },
+        {
+            "Company": "Amex",
+            "Company Score": 4.1,
+            "Job Title": "Java Engineer",
+            "Location": "Plantation, FL",
+            "Date": "6d",
+            "Salary": "$100K - $125K",
+            "Source": "Employer est."
+        },
+        {
+            "Company": "SOFT LABS NA",
+            "Company Score": 5.0,
+            "Job Title": "Entry Level to Senior Level Software Developers",
+            "Location": "Northborough, MA",
+            "Date": "30d+",
+            "Salary": "$85K - $127K",
+            "Source": "Glassdoor est."
+        },
+        {
+            "Company": "Snapchat",
+            "Company Score": 3.5,
+            "Job Title": "Software Engineer, C++",
+            "Location": "Los Angeles, CA",
+            "Date": "2d",
+            "Salary": "$69K - $109K",
+            "Source": "Glassdoor est."
+        },
+        {
+            "Company": "Hertz",
+            "Company Score": 3.2,
+            "Job Title": "Software Engineer",
+            "Location": "Seattle, WA",
+            "Date": "2d",
+            "Salary": "$124K - $234K",
+            "Source": "Employer est."
+        },
+        {
+            "Company": "Megaport",
+            "Company Score": 3.4,
+            "Job Title": "Frontend Software Engineer",
+            "Location": null,
+            "Date": "2d",
+            "Salary": "$84K - $133K",
+            "Source": "Glassdoor est."
+        },
+        {
+            "Company": "7-Eleven, Inc.",
+            "Company Score": 3.4,
+            "Job Title": "Software Engineer",
+            "Location": "Irving, TX",
+            "Date": "1d",
+            "Salary": "$85K - $150K",
+            "Source": "Employer est."
+        },
+        {
+            "Company": "Summit Technologies, Inc.",
+            "Company Score": 4.2,
+            "Job Title": "Software Engineer",
+            "Location": "Springfield, MA",
+            "Date": "10d",
+            "Salary": "$48K - $89K",
+            "Source": "Glassdoor est."
+        },
+        {
+            "Company": "Adobe",
+            "Company Score": 2.9,
+            "Job Title": "Software Development Engineer",
+            "Location": "San Jose, CA",
+            "Date": "10d",
+            "Salary": "$66K - $97K",
+            "Source": "Glassdoor est."
+        },
+        {
+            "Company": "The MITRE Corporation",
+            "Company Score": 4.0,
+            "Job Title": "Associate Software Engineer",
+            "Location": "Bedford, MA",
+            "Date": "2d",
+            "Salary": "$108K - $199K",
+            "Source": "Employer est."
+        },
+        {
+            "Company": "Boston Children's Hospital",
+            "Company Score": 4.1,
+            "Job Title": "Software Engineer - HA (Hybrid)",
+            "Location": "Boston, MA",
+            "Date": "30d+",
+            "Salary": "$102K - $173K",
+            "Source": "Employer est."
+        },
+        {
+            "Company": "Amex",
+            "Company Score": 3.2,
+            "Job Title": "Engineer - React/JavaScript",
+            "Location": "Sunrise, FL",
+            "Date": "5d",
+            "Salary": "$124K - $142K",
+            "Source": "Employer est."
+        },
+        {
+            "Company": "Ahold Delhaize USA",
+            "Company Score": 4.0,
+            "Job Title": "Software Engineer - Martech",
+            "Location": "Carlisle, PA",
+            "Date": "2d",
+            "Salary": "$94K - $133K",
+            "Source": "Glassdoor est."
+        },
+        {
+            "Company": "Artera Technologies",
+            "Company Score": 4.2,
+            "Job Title": "Software Engineers",
+            "Location": "Annapolis Junction, MD",
+            "Date": "6d",
+            "Salary": "$70K - $116K",
+            "Source": "Glassdoor est."
+        },
+        {
+            "Company": "Adobe",
+            "Company Score": 4.3,
+            "Job Title": "Software Engineer",
+            "Location": "Lehi, UT",
+            "Date": "13d",
+            "Salary": "$142K - $178K",
+            "Source": "Employer est."
+        },
+        {
+            "Company": "Workiva",
+            "Company Score": 3.5,
+            "Job Title": "Senior Software Engineer",
+            "Location": "Remote",
+            "Date": "3d",
+            "Salary": "$87K - $135K",
+            "Source": "Employer est."
+        },
+        {
+            "Company": "Samsung Electronics",
+            "Company Score": 3.4,
+            "Job Title": "Software Engineer",
+            "Location": "Mountain View, CA",
+            "Date": "2d",
+            "Salary": "$77K - $182K",
+            "Source": "Employer est."
+        },
+        {
+            "Company": "IPG Photonics",
+            "Company Score": 3.7,
+            "Job Title": "Software Engineer",
+            "Location": "Oxford, MA",
+            "Date": "4d",
+            "Salary": "$101K - $144K",
+            "Source": "Glassdoor est."
+        },
+        {
+            "Company": "Crafty",
+            "Company Score": 3.3,
+            "Job Title": "Software Engineer",
+            "Location": "Chicago, IL",
+            "Date": "2d",
+            "Salary": "$101K - $168K",
+            "Source": "Employer est."
+        },
+        {
+            "Company": "Crunchyroll, LLC",
+            "Company Score": 4.2,
+            "Job Title": "Software Engineer III, Payments",
+            "Location": "San Francisco, CA",
+            "Date": "13d",
+            "Salary": "$74K - $118K",
+            "Source": "Glassdoor est."
+        },
+        {
+            "Company": "LEGO",
+            "Company Score": 3.9,
+            "Job Title": "Backend Software Engineer",
+            "Location": "Irvine, CA",
+            "Date": "9d",
+            "Salary": "$100K - $200K",
+            "Source": "Employer est."
+        },
+        {
+            "Company": "Principal Financial Group",
+            "Company Score": 4.1,
+            "Job Title": "Experienced Software Engineer",
+            "Location": "Des Moines, IA",
+            "Date": "2d",
+            "Salary": "$51K - $78K",
+            "Source": "Glassdoor est."
+        },
+        {
+            "Company": "INTEL",
+            "Company Score": 3.4,
+            "Job Title": "Security Software Engineer",
+            "Location": "Phoenix, AZ",
+            "Date": "22d",
+            "Salary": "$71K - $237K",
+            "Source": "Employer est."
+        },
+        {
+            "Company": "Hasbro",
+            "Company Score": 4.4,
+            "Job Title": "Software Engineer, Unreal Engine",
+            "Location": "Renton, WA",
+            "Date": "18d",
+            "Salary": "$87K - $116K",
+            "Source": "Glassdoor est."
+        },
+        {
+            "Company": "Software Engineering Institute",
+            "Company Score": 4.2,
+            "Job Title": "Software Engineer",
+            "Location": "Pittsburgh, PA",
+            "Date": "30d+",
+            "Salary": "$116K - $184K",
+            "Source": "Employer est."
+        },
+        {
+            "Company": "University of Dayton",
+            "Company Score": 4.4,
+            "Job Title": "Associate Software Engineer",
+            "Location": "Dayton, OH",
+            "Date": "2d",
+            "Salary": "$75K - $103K",
+            "Source": "Glassdoor est."
+        },
+        {
+            "Company": "MIT",
+            "Company Score": 3.7,
+            "Job Title": "Software Developer",
+            "Location": "Cambridge, MA",
+            "Date": "17d",
+            "Salary": "$155K - $221K",
+            "Source": "Employer est."
+        },
+        {
+            "Company": "Amazon.com Services LLC",
+            "Company Score": 5.0,
+            "Job Title": "Software Dev Engineer - Computer Science",
+            "Location": "Seattle, WA",
+            "Date": "2d",
+            "Salary": "$112K - $165K",
+            "Source": "Employer est."
+        },
+        {
+            "Company": "DaqScribe Solutions",
+            "Company Score": 3.9,
+            "Job Title": "Jr. Software Engineer",
+            "Location": "United States",
+            "Date": "10d",
+            "Salary": "$73K - $109K",
+            "Source": "Glassdoor est."
+        },
+        {
+            "Company": "West Virginia University",
+            "Company Score": 4.5,
+            "Job Title": "Software Engineer - Libraries",
+            "Location": "Morgantown, WV",
+            "Date": "4d",
+            "Salary": "$120K - $150K",
+            "Source": "Employer est."
+        },
+        {
+            "Company": "McKesson",
+            "Company Score": 3.9,
+            "Job Title": "Software Engineer",
+            "Location": null,
+            "Date": "2d",
+            "Salary": "$88K - $124K",
+            "Source": "Glassdoor est."
+        },
+        {
+            "Company": "Noblis",
+            "Company Score": 2.0,
+            "Job Title": "Software Engineer (All Levels)",
+            "Location": "Chantilly, VA",
+            "Date": "1d",
+            "Salary": "$77K - $87K",
+            "Source": "Employer est."
+        },
+        {
+            "Company": "eimagine",
+            "Company Score": 3.5,
+            "Job Title": "Software Engineer",
+            "Location": "United States",
+            "Date": "30d+",
+            "Salary": "$65K - $90K",
+            "Source": "Employer est."
+        },
+        {
+            "Company": "CSL SOFTWARE SOLUTIONS",
+            "Company Score": 4.1,
+            "Job Title": "Software/Database Developer",
+            "Location": "Burlington, VT",
+            "Date": "18d",
+            "Salary": "$74K - $101K",
+            "Source": "Glassdoor est."
+        },
+        {
+            "Company": "Chewy",
+            "Company Score": 3.8,
+            "Job Title": "Software Engineer II",
+            "Location": "Bellevue, WA",
+            "Date": "2d",
+            "Salary": "$74K - $111K",
+            "Source": "Glassdoor est."
+        },
+        {
+            "Company": "ERPA",
+            "Company Score": 4.3,
+            "Job Title": "Software Test Engineer",
+            "Location": "Dublin, OH",
+            "Date": "2d",
+            "Salary": "$147K - $186K",
+            "Source": "Employer est."
+        }
+    ]
+}
