@@ -2,16 +2,33 @@ import React, { useState } from "react";
 import useDb from "../hooks/useDb";
 import useSalaries from "../hooks/useSalaries";
 import { useNavigate } from "react-router-dom";
+import DeleteRecord from "./deleteRecord";
 
 export default function ListRecords() {
   const { db, ready, alive } = useDb();
   const { loading, docs } = useSalaries(db, ready);
   const [searchQuery, setSearchQuery] = useState("");
+  const [selectedRecordId, setSelectedRecordId] = useState(null);
+  const [isModalOpen, setIsModalOpen] = useState(false);
 
   const navigate = useNavigate();
 
   const handleUpdateClick = (id) => {
     navigate(`/update/${id}`);
+  };
+
+  const handleDeleteClick = (id) => {
+    setSelectedRecordId(id);
+    setIsModalOpen(true);
+  };
+
+  const closeModal = () => {
+    setIsModalOpen(false);
+    setSelectedRecordId(null);
+  };
+
+  const handleDelete = () => {
+    closeModal();
   };
 
   const filteredDocs = docs.filter((doc) =>
@@ -68,7 +85,10 @@ export default function ListRecords() {
                       className="crudIcon"
                     />
                   </button>
-                  <button className="iconBtn">
+                  <button
+                    className="iconBtn"
+                    onClick={() => handleDeleteClick(doc._id)}
+                  >
                     <img
                       src="deleteIcon.svg"
                       alt="Delete"
@@ -82,6 +102,14 @@ export default function ListRecords() {
         </table>
       ) : (
         !loading && <p>No records found</p>
+      )}
+
+      {isModalOpen && (
+        <DeleteRecord
+          recordId={selectedRecordId}
+          onClose={closeModal}
+          onDelete={handleDelete}
+        />
       )}
     </div>
   );
